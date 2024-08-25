@@ -5,18 +5,18 @@ The objective to this is to create a user registration system using PHP OOP prin
 PHP Version: PHP 8.2 <br />
 Smarty Template Version: 5.4.0
 
-PROJECT DIRECTORY: ⬇️
-Form-Registration-Using-Smarty/
-  ├── cache/           # Cache for Smarty
-  ├── configs/         # Smarty configurations  
-  ├── demo/            # Smarty demo display   
-  ├── layout/          # Page Layout (Bootstrap/Title)
-  ├── libs/            # Smarty library files
-  ├── src/             # Smarty source files
-  ├── templates/       # Smarty templates  
-  ├── templates_c/     # Compiled templates  
-  ├── register.php     # Main PHP script 
-  └── User.php         # User Class
+PROJECT DIRECTORY: ⬇️ <br />
+Form-Registration-Using-Smarty/ <br />
+  ├── cache/           # Cache for Smarty <br />
+  ├── configs/         # Smarty configurations <br />
+  ├── demo/            # Smarty demo display <br />
+  ├── layout/          # Page Layout (Bootstrap/Title) <br />
+  ├── libs/            # Smarty library files <br />
+  ├── src/             # Smarty source files <br />
+  ├── templates/       # Smarty templates <br />
+  ├── templates_c/     # Compiled templates <br />
+  ├── register.php     # Main PHP script <br />
+  └── User.php         # User Class <br />
 
 
 
