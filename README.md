@@ -20,4 +20,4 @@ Form-Registration-Using-Smarty/ <br />
 
 
 
-# Author => Nurudeen Daniju
+### Author => Nurudeen Daniju
