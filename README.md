@@ -2,7 +2,7 @@
 
 The objective to this is to create a user registration system using PHP OOP principles and the Smarty template engine. The system will collect user informations such as username, email & password through an HTML form, validate the input data server-side, and display a confirmation message upon submission.
 
-PHP Version: PHP 8.2
+PHP Version: PHP 8.2 <br />
 Smarty Template Version: 5.4.0
 
 PROJECT DIRECTORY: ⬇️
