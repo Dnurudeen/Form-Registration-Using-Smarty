@@ -5,7 +5,7 @@ The objective to this is to create a user registration system using PHP OOP prin
 PHP Version: PHP 8.2 <br />
 Smarty Template Version: 5.4.0
 
-###### PROJECT DIRECTORY: ⬇️ <br />
+#### PROJECT DIRECTORY: ⬇️ <br />
 Form-Registration-Using-Smarty/ <br />
   ├── cache/           # Cache for Smarty <br />
   ├── configs/         # Smarty configurations <br />
